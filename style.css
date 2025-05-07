@@ -1,0 +1,10 @@
+body {
+    background: #000;
+    color: pink !important;
+    font-family: 'Comic Sans MS', cursive !important;
+}
+
+/* Makes console text rainbow! */
+[class^="console"] {
+    color: purple !important;
+}
